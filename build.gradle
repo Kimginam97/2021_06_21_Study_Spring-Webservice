@@ -30,5 +30,6 @@ dependencies {
 	compile('org.projectlombok:lombok')
 	compile('org.springframework.boot:spring-boot-starter-data-jpa') // jpa
 	compile('com.h2database:h2') // jpa
+	compile('pl.allegro.tech.boot:handlebars-spring-boot-starter:0.3.1')
 	testCompile('org.springframework.boot:spring-boot-starter-test')
 }
