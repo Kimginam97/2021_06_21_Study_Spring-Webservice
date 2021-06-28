@@ -1,4 +1,4 @@
-package com.duduri.webservice.dto;
+package com.duduri.webservice.web.dto;
 
 import com.duduri.webservice.domain.posts.Posts;
 import lombok.Builder;
